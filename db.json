@@ -1,0 +1,82 @@
+[
+
+    {
+    
+        "id": 1,
+        "name": "Paris",
+        "restaurant": "",
+        "image": "",
+        "rating": 9,
+        "comment": "The perfect place for romance"
+    },
+    
+    {
+        "id": 2,
+        "name": "Japan",
+        "restaurant": "",
+        "image": "",
+        "rating": 8,
+        "comment": "A wonderful place to explore"
+    },
+
+    {
+    
+        "id": 3,
+        "name": "Russia",
+        "restaurant": "",
+        "image": "",
+        "rating": 7,
+        "comment": "Great place for a history lesson"
+    },
+    
+    {
+    
+        "id": 4,
+        "name": "Africa",
+        "restaurant": "",
+        "image": "",
+        "rating": 8,
+        "comment": "The land with everything in reach"
+    },
+
+    {
+    
+        "id": 5,
+        "name": "Bora Bora",
+        "restaurant": "",
+        "image": "",
+        "rating": 10,
+        "comment": "The perfect place!!!"
+    },
+
+    {
+    
+        "id": 6,
+        "name": "Aruba",
+        "restaurant": "",
+        "image": "",
+        "rating": 7,
+        "comment": "perfect island to relax"
+    },
+
+    {
+    
+        "id": 7,
+        "name": "New York",
+        "restaurant": "",
+        "image": "",
+        "rating": 6,
+        "comment": ""
+    },
+
+    {
+    
+        "id": 8,
+        "name": "The subway",
+        "restaurant": "",
+        "image": "",
+        "rating": 0.5,
+        "comment": ""
+    }
+
+]
